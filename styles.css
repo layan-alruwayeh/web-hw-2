@@ -351,8 +351,30 @@ body {
   background-color: black;
 }
 
-footer{
-  background-color: blueviolet;
+.zozo{
+    background-image: linear-gradient(rgb(51, 21, 121), rgb(32, 11, 59));
 }
 
+.momo{
+  background-image: linear-gradient(#007991, #78ffd6);
+}
 
+.mimi{
+  background-image: linear-gradient(#a8ff78, #78ffd6);
+}
+
+.lolo{
+  background-image: linear-gradient(rgb(130, 221, 228), rgb(22, 106, 155));
+}
+
+.lili{
+  background-image: linear-gradient( #333333,#dd1818);
+}
+
+.nono{
+  background-image: linear-gradient(#a8c0ff, #3f2b96);
+}
+
+.toto{
+  background-image: linear-gradient(rgb(204, 103, 103), rgb(216, 33, 79));
+}
